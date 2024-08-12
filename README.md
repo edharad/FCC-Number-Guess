@@ -1,2 +1,2 @@
 # number_guess
-FCC number_guess_project
+FCC number_guess project
